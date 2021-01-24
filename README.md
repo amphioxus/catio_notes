@@ -2,13 +2,14 @@
 
 Material
 
-* Galvanized 16-gauge, 2” x 3” grid-opening fencing wire
+* Galvanized 1/2"x1/2" to 2” x 3” grid-opening fencing wire (depends on how you want it to look)
 * 2x2 wooden boards (8' long)
 * Boards for shelves
 
 ## Ideas
 
-https://purrfectlyhomey.com/2018/11/the-catio
+* https://catiospaces.com/catios-cat-enclosures/
+* https://purrfectlyhomey.com/2018/11/the-catio
 
 ## Draft
 
