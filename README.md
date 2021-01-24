@@ -56,13 +56,13 @@ Updated design has 6 panels.
 **Further simplified:** 
 
 * lower and top box are constructed separately
-* 7 differnt panel dimensions make up the whole ratio.
+* 6 different panel types (each type has the same dimensions) make up the whole catio. 10 panels total. (2 panels have hinged doors.)
 
 ![catio_design_v1.2](figures/catio_design_v1.2.jpg)
 
 
 
-The top cage could be lifted off, if attached with some kind of pin and hook system.
+The top cage could be lifted off, if attached with some kind of pin and hook system, for example.
 
 ![catio_design_v1.2_exploded-1](figures/catio_design_v1.2_exploded-1.jpg)
 
