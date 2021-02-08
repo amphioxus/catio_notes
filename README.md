@@ -106,3 +106,10 @@ Panel C is comprised of a large rectangular frame, with a small door at the lowe
 
 
 
+
+
+# Screw placement
+
+I'd probably drill some pilot holes, so that the screws hit the rectangular face of the lumber right in the middle. (Also, less chance of the wood splitting.) The better the 90-degree cuts of the 2x2s are, the easier it will be to get a frame that's also rectangular.
+
+![screw-it](figures/screw-it.png)
