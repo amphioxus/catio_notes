@@ -74,3 +74,35 @@ An exploded view shows that panel type A (28x48'') makes up almost all of the to
 
 
 
+# Individual panel dimensions
+
+
+
+## Panel A
+
+To make clamping easier, the panel has been slightly updated so that all horizontal pieces have the same length (26 inches).
+
+![catio_panel_A](figures/catio_panel_A.png)
+
+
+
+## Panel B
+
+
+
+Panel B is basically Panel A with a small door.
+
+![catio_panel_B](figures/catio_panel_B.png)
+
+
+
+
+
+## Panel C
+
+Panel C is comprised of a large rectangular frame, with a small door at the lower left.
+
+![front_panel_C](figures/catio_panel_C.png)
+
+
+
