@@ -80,7 +80,7 @@ An exploded view shows that panel type A (28x48'') makes up almost all of the to
 
 ## Panel A
 
-To make clamping easier, the panel has been slightly updated so that all horizontal pieces have the same length (26 inches).
+To make cutting and clamping easier, the panel has been slightly updated so that all horizontal pieces have the same length (26 inches).
 
 ![catio_panel_A](figures/catio_panel_A.png)
 
