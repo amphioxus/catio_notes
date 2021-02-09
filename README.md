@@ -1,10 +1,18 @@
 # Catio notes
 
-Material
+## Material
 
 * Galvanized 1/2"x1/2" to 2” x 3” grid-opening fencing wire (depends on how you want it to look)
 * 2x2 wooden boards (8' long)
 * Boards for shelves
+
+## Design Software
+
+Free version of Trimble Sketchup (formerly Google Sketchup): https://app.sketchup.com/app 
+
+The free version is now a web-browser based app. Unfortunatly, the desktop version is no longer available for free, but there's a 30-day trial period.
+
+
 
 ## Ideas
 
@@ -108,7 +116,7 @@ Panel C is comprised of a large rectangular frame, with a small door at the lowe
 
 ## Panel D
 
-Panel D faces the wall, and has an opening to the cat door that leads inside the house.
+Panel D faces the wall, and has an opening to the cat door that leads inside the house. One could divide the left section using a horizontal strut (2'3'' long), and cover the top section with mesh, leaving only a small part where the door is uncovered. 
 
 ![catio_panel_D](figures/catio_panel_D.png)
 
