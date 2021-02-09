@@ -86,7 +86,7 @@ To make cutting and clamping easier, the panel has been slightly updated so that
 
 
 
-## Panel B
+## Panel B (with door)
 
 
 
@@ -105,6 +105,30 @@ Panel C is comprised of a large rectangular frame, with a small door at the lowe
 ![front_panel_C](figures/catio_panel_C.png)
 
 
+
+## Panel D
+
+Panel D faces the wall, and has an opening to the cat door that leads inside the house.
+
+![catio_panel_D](figures/catio_panel_D.png)
+
+
+
+## Panel E
+
+Panel E is the lower top cover.
+
+![catio_panel_E](figures/catio_panel_E.png)
+
+
+
+## Panel F
+
+The topmost cover panel.
+
+![catio_panel_F](figures/catio_panel_F.png)
+
+ 
 
 
 
